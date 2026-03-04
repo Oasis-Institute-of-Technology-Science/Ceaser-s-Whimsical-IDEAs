@@ -6,4 +6,9 @@
 
 可以在AME里引入；
 
+每个人所拥有的几个储存库：
+Docs(用户自己写);
+References(用户引用的文档，提供URL);
+Worldview（有相关规范）;
+
 
